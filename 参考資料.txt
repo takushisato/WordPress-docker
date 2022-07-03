@@ -1,1 +1,3 @@
 https://hub.docker.com/_/wordpress
+
+https://www.kagoya.jp/howto/cloud/container/wordpress-docker/
